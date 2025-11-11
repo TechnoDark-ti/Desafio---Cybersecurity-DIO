@@ -1,0 +1,7 @@
+123456
+password
+admin
+kali
+root
+qwerty
+letmein
